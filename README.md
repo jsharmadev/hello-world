@@ -1,2 +1,2 @@
 # hello-world
-Simple Start
+I'm starting out with GitHub.
